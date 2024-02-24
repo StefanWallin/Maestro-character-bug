@@ -1,0 +1,6 @@
+appId: org.reactjs.native.example.MaestroCharacterBug
+---
+- stopApp
+- clearState
+- launchApp
+- assertVisible: 'Awesome Text in Bottom Sheet'
